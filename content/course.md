@@ -27,9 +27,9 @@ Topics Introduced:
 - Spatial UI/UX Design (input to user)
 - Embodied UI/UX Design (output from user)
 
-Assignments & Readings
+Assignments & Readings:
+- Reading: *Computers As Theatre - Chapter 1*
 - Reading: *About Face: The Essentials of Interaction Design - Chapter 2* 
-- Reading: *Computers As Theatre - Chapter 1*.
 - [The Daily-UX Project]({{< ref "assignments/dailyux.md" >}})
 - [Git Practice Assignment]({{< ref "assignments/git-practice.md" >}})
 - [Design Research Slide]({{< ref "assignments/design-research-slide.md" >}})
@@ -37,6 +37,13 @@ Assignments & Readings
 
 ## Section 2: Prototyping
 *Weeks 3 and 4*
+Topics Introduced:
+- Technical Documentation
+- Rapid Prototyping Techniques
+- Domain Exploration
+- Input and Output in Unity
+- Collaboration with git
+
 
 Assignments and Readings
 - [Investigate Priors Paper]({{< ref "assignments/prior-investigation.md" >}})
@@ -46,6 +53,7 @@ Assignments and Readings
 - Prototype Project 2
 
 ## Section 3: Final Project
+
 - Brainstorm Session
 - Class Pitch Day
 - Standups (regular)
