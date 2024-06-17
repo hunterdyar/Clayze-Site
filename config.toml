@@ -1,4 +1,3 @@
 baseURL = 'http://clayze.hdyar.com/'
 languageCode = 'en-us'
 title = 'Clayze'
-theme = 'hugo-xmin'

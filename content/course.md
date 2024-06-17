@@ -1,5 +1,5 @@
 ---
-title: Course
+title: Course Information
 author: Hunter Dyar
 ---
 
@@ -28,8 +28,8 @@ Topics Introduced:
 - Embodied UI/UX Design (output from user)
 
 Assignments & Readings
-- Reading: Norman 1
-- Reading: Laurel 1. In-Class Discussion
+- Reading: *About Face: The Essentials of Interaction Design - Chapter 2* 
+- Reading: *Computers As Theatre - Chapter 1*.
 - [The Daily-UX Project]({{< ref "assignments/dailyux.md" >}})
 - [Git Practice Assignment]({{< ref "assignments/git-practice.md" >}})
 - [Design Research Slide]({{< ref "assignments/design-research-slide.md" >}})

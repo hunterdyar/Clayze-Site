@@ -1,6 +1,9 @@
 ---
 title: Investigate Priors Paper
 ---
+
+*In design research terms, this is 'Literature Review'.*
+
 Analyze an existing modeling-for-XR tool, research project, interface, or software.
 
 Every student will be given a different tool to explore.
