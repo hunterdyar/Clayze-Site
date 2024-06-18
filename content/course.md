@@ -1,13 +1,14 @@
 ---
-title: Course Information
+title: XR Prototyping & Interaction Design
 author: Hunter Dyar
 ---
+*Carnegie Mellon University - IDeATe 55313*  
+*Chatham University - IMM313*  
+Summer 2024
 
-# XR Prototyping & Interaction Design
+Jump to [Daily Schedule](#daily-schedule)
 
-[Course Calendar]({{< ref "calendar.md" >}})
-
-## Breakdown
+# Breakdown by Topics
 - Participation (30%) (workshops, reading discussions, group activity, shared project responsibility)
 - Writings, Presentations, Reflections (20%) (papers, various assignments)
 - Prototype 1 - (10%)
@@ -65,3 +66,6 @@ Assignments and Readings
 
 ## Reprisal: Fall Showcase
 The Studio for Creative Inquiry at CMU will host an in-person presentation in fall 2024. We will show off our final projects in person! Schedule TBD.
+
+# Daily Schedule
+{{< toml-to-weeks "schedule.yaml" >}}
