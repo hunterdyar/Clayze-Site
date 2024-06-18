@@ -15,7 +15,7 @@ The project is centered around a course held at both Carnegie Mellon University 
 5. An in-person demonstration of the student research held in the Fall of 2024
 
 ## Links
-- [Course Information](./course) (for students)
+- [Course Information](./course) for students
 - The [Volume Server](https://clayzeserver.hdyar.com/) and [source code](https://github.com/hunterdyar/Clayze-Server)
 - The [Clayze Unity Package](https://github.com/hunterdyar/clayze)
 - The [source](https://github.com/hunterdyar/Clayze-Site) for this site

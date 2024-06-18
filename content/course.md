@@ -5,6 +5,8 @@ author: Hunter Dyar
 
 # XR Prototyping & Interaction Design
 
+[Course Calendar]({{< ref "calendar.md" >}})
+
 ## Breakdown
 - Participation (30%) (workshops, reading discussions, group activity, shared project responsibility)
 - Writings, Presentations, Reflections (20%) (papers, various assignments)

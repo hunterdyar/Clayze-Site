@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<article>
+
+    <nav><h2>{{ .Title | markdownify }}</h2></nav>
+    {{ .Content }}
+    {{ partial "calendar.html" . }}
+
+</article>
+
+{{ partial "footer.html" . }}

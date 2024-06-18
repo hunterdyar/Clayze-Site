@@ -6,6 +6,9 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    {{ with resources.Get "cal.css"}}
+    <link rel="stylesheet" href="{{ .RelPermalink }}"/>
+    {{end}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css-1.7.1.min.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
   </head>

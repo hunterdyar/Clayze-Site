@@ -1,0 +1,43 @@
+{{ with $file := .Get 0 }}
+{{ with resources.Get $file }}
+{{ with . | transform.Unmarshal }}
+{{ $days := .days }}
+{{ range $wk := .weeks }}
+<li>
+    <h2>{{ .start }}</h2>
+
+    <ol
+            id="calendar-days"
+            class="days-grid"
+    >
+        {{ range $day := $days }}
+        {{ $target := index $wk $day  }}
+        <li class="calendar-day">
+            <h4>{{$day}}</h4>
+            <p>
+                {{if isset $target "due" }}
+                {{$due := $target.due }}
+                {{ if $target.due }}
+                    DUE: {{ $target.due }}
+                {{ end }}
+                {{ end }}
+
+                {{if isset $target "class" }}
+                    {{ range $target.class }}
+                        {{ . }}
+                    {{ end }}
+                {{ end }}
+
+            </p>
+        </li>
+
+        {{ end }}
+
+    </ol>
+</li>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+

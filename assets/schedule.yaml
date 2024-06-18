@@ -1,0 +1,52 @@
+---
+days:
+  - mon
+  - tue
+  - wed
+  - thur
+  - fri
+
+weeks:
+-
+    start: 2024-06-24
+    mon:
+        class:
+        - Unity Crash course
+        - (cmu only)
+    tue:
+        class:
+        - Unity Crash Course
+        - (cmu only)
+    wed:
+        class:
+        - Syllabus Day
+    thur:
+        class:
+        - What is Design Research?
+    fri:
+        due:
+        - "About Face: The Essentials of Interaction Design - Chapter 2"
+        class:
+        - Clayze Package Hacking
+-
+    start: 2024-07-01
+    mon:
+        class:
+        - Laurel 1 Reading Discussion
+        - Intro to Git
+        due: reading 1
+    tue:
+        class:
+        - Design Research Research
+    wed:
+        class:
+        - Design Research Class Presentation
+    thur:
+        due:
+        - Norman ch 1
+        class:
+        - Hardware Exploring
+        - Norman 1 Discussion
+    fri:
+        class:
+        - Clayze Package Hacking
