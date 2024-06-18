@@ -44,7 +44,7 @@ weeks:
         - Computers As Theater Ch.1
     wed:
         due:
-        - Research Slide
+        - Design Research Slide
         class:
         - Design Research Class Presentation
         - XR Hardware Introductions
@@ -86,3 +86,24 @@ weeks:
             - Investigate Priors Paper
         class:
             - Norman 1 Discussion
+-
+    start: Week Four - 07/15
+    mon:
+        class:
+            - Prototype 2
+            - New Media Explorations
+    tue:
+        class:
+            - Prototype 2 Hack Time
+            - Unity Outputs
+    wed:
+        due:
+            - Computers As Theater Ch.6
+        class:
+            - Prototype 2 Hack Time
+    thur:
+        class:
+            - Prototype 2 Hack Time
+    fri:
+        due:
+            - Prototype 2

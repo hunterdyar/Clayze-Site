@@ -50,7 +50,7 @@ Topics Introduced:
 
 Assignments and Readings
 - [Investigate Priors Paper]({{< ref "assignments/prior-investigation.md" >}})
-- Laural Ch. 5
+- Laural Ch. 6
 - Hardware Survey
 - Prototype Project 1
 - Prototype Project 2
