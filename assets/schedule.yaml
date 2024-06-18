@@ -23,34 +23,66 @@ weeks:
     thur:
         class:
         - What is Design Research?
+        - Critical Experimentation Discussion
     fri:
         due:
-        - "About Face Ch 2"
+        - Daily UX Check-in 1
+        - About Face Ch.2
         class:
         - Clayze Package Hacking
 -
     start: Week Two - 07/01
     mon:
         class:
-        - Computers As Theater Reading Discussion
         - Introducing Git
+        - Researching Design Research
+    tue:
+        class:
+        - Unity Workshop
+        - Computers As Theater Reading Discussion
         due:
         - Computers As Theater Ch.1
-    tue:
-       class:
-        - Design Research... Research
-        - Paying Attention to Users
     wed:
+        due:
+        - Research Slide
         class:
         - Design Research Class Presentation
         - XR Hardware Introductions
+        - Unity Workshop
     thur:
         special: no-class
         class:
         - No Class (4th of July)
     fri:
         due:
+        - Daily UX Check-in 2
         - Design of Everyday Things Ch.1
         class:
         - Norman 1 Discussion
-
+        - Unity & Git Workshop
+-
+    start: Week Three - 07/08
+    mon:
+        due:
+            - Git Practice Assignment
+        class:
+            - Priors Assignments
+            - Researching Design Research
+    tue:
+        class:
+            - Prototype 1 Hack Time
+            - Unity Input Systems & Methods
+    wed:
+        due:
+        - Computers As Theater Ch.4
+        class:
+            - Prototype 1 Hack Time
+    thur:
+        class:
+            - Prototype 1 Hack Time
+    fri:
+        due:
+            - Daily UX Check-in 3
+            - Investigate Priors Paper
+        class:
+            - Norman 1 Discussion
