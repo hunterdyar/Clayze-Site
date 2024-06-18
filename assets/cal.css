@@ -95,7 +95,31 @@ body {
     background-color: red;
     display: none;
 }
-.day-of-week ol,li{
+.day-of-week ul,ol,li{
     list-style-type: none;
+    margin-left: 0px;
+}
+
+li.class-day{
+    list-style-type: disc;
+}
+ul.class-day{
+    margin-left: .5em;
+}
+li.due{
+    background-color: blanchedalmond;
+}
+
+.cmu-only{
+    background-color: hsl(0 15% 94%)
+}
+.no-class{
+    background: repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 10px,
+            #ebebeb 10px,
+            #ebebeb 20px
+    )
 }
 

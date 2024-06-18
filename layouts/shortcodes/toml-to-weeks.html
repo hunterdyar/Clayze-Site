@@ -12,23 +12,34 @@
     >
         {{ range $day := $days }}
         {{ $target := index $wk $day  }}
+
+        {{if isset $target "special" }}
+        <li class="calendar-day {{$target.special}}">
+        {{else}}
         <li class="calendar-day">
+        {{end}}
             <h4>{{$day}}</h4>
-            <p>
+            <ul class="class-day">
                 {{if isset $target "due" }}
-                {{$due := $target.due }}
-                {{ if $target.due }}
-                    DUE: {{ $target.due }}
-                {{ end }}
+                    {{$due := $target.due }}
+                    {{ if $target.due }}
+                        {{ range $target.due }}
+                            <li class="class-day due">
+                            Due: {{ . }}
+                            </li>
+                        {{end}}
+                    {{ end }}
                 {{ end }}
 
                 {{if isset $target "class" }}
                     {{ range $target.class }}
+                        <li class="class-day">
                         {{ . }}
-                    {{ end }}
+                        </li>
+                {{ end }}
                 {{ end }}
 
-            </p>
+            </ul>
         </li>
 
         {{ end }}
