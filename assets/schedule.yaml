@@ -74,7 +74,7 @@ weeks:
             - Unity Input Systems & Methods
     wed:
         due:
-        - Computers As Theater Ch.4
+            - Computers As Theater Ch.4
         class:
             - Prototype 1 Hack Time
     thur:
@@ -90,15 +90,16 @@ weeks:
     start: Week Four - 07/15
     mon:
         class:
-            - Prototype 2
+            - Prototype 1
             - New Media Explorations
     tue:
         class:
-            - Prototype 2 Hack Time
+            - Prototype 2 Proposals
             - Unity Outputs
     wed:
         due:
             - Computers As Theater Ch.6
+            - Prototype 1
         class:
             - Prototype 2 Hack Time
     thur:
@@ -107,3 +108,40 @@ weeks:
     fri:
         due:
             - Prototype 2
+-
+    start: Week Five - 07/22
+    mon:
+        class:
+            - Prototype 2
+    tue:
+        class:
+            - Prototype 2 Hack Time
+    wed:
+        due:
+            - Prototype 2
+        class:
+            - Prototype 2 Review
+            - Final Project Pitches
+    thur:
+        class:
+            - Final Project Design Sessions
+    fri:
+        due:
+            - Final Project Standup 1
+-
+    start: Week Six - 07/29
+    mon:
+        class:
+            - Final Project
+    tue:
+        class:
+            - Final Project
+    wed:
+        due:
+            - Final Project Standup 2
+    thur:
+        class:
+            - Final Project
+    fri:
+        due:
+            - Final Project Standup 3
