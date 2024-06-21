@@ -36,7 +36,7 @@ Assignments & Readings:
 - [The Daily-UX Project]({{< ref "assignments/dailyux.md" >}})
 - [Git Practice Assignment]({{< ref "assignments/git-practice.md" >}})
 - [Design Research Slide]({{< ref "assignments/design-research-slide.md" >}})
-- Reading: Norman 5
+- Reading: Norman 1
 
 ## Section 2: Prototyping
 *Weeks 3 and 4*
