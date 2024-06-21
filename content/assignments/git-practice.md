@@ -11,6 +11,7 @@ Explore resources, work through the 'introducing git' project, then review terms
 ## Part 1 - Understand the Jargon & Concepts
 - Wow, the [git glossary](https://git-scm.com/docs/gitglossary) is full of gibberish, huh. Bookmark this page, and refer to it when terms appear later.
 - Read this [technical overview](https://www.cduan.com/technical/git/).
+- Watch First video in [Git for Poets Video Series](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) by Coding Train
 - Review [How Git Works in 4 Minutes Video](https://www.youtube.com/watch?v=e9lnsKot_SQ)
 
 ## Part 2 - 'Introduction to GitHub' Project
@@ -21,6 +22,7 @@ Explore resources, work through the 'introducing git' project, then review terms
 ### Git Terminology
 - [Terminology Cheatsheet](https://www.pluralsight.com/resources/blog/cloud/git-terms-explained)
 - [Git in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE&t=9s)
+- [Branches (Git for Poets)](https://www.youtube.com/watch?v=oPpnCh7InLY)
 
 ### Markdown
 - GitHub's [Markdown 'course' instructions](https://github.com/skills/communicate-using-markdown)
@@ -31,3 +33,6 @@ Explore resources, work through the 'introducing git' project, then review terms
 ### Files/Filesystems
 - [My 'What Are Files?' Video (7:40)](https://youtu.be/t9MoE6Jzg7E?t=460) made as extra for a python class, still useful.
 
+### Git in the Terminal
+- [Interactive Git Lessons](https://learngitbranching.js.org/)
+- [Everything you need to know about Git video](https://www.youtube.com/watch?v=0Hk2XjGSzbA&t=39s)
