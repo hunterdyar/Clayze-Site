@@ -6,23 +6,23 @@ Prepare a 2-3 minute presentation on a single design method.
 ## Methods
 We will select these randomly, during class.
 
-- User Group/Focus Group
-- Diary Study
-- User Interview
-- Literature Review
-- Grafiti Walls & "How Might We..." 
-- A/B Testing
-- Backcasting
-- Collage
-- Cognitive Mapping
-- Design Fiction
-- Design Charette
-- Design Physicalization
-- User/Customer Experience Audit
-- Weighted Matrix
-- Tree Testing
-- Thematic Networks
-- Shadowing
+1. User Group/Focus Group
+2. Diary Study
+3. User Interview
+4. Literature Review
+5. Grafiti Walls & "How Might We..." 
+6. A/B Testing
+7. Backcasting
+8. Collage
+9. Cognitive Mapping
+10. Design Fiction
+11. Design Charette
+12. Design Physicalization
+13. User/Customer Experience Audit
+14. Weighted Matrix
+15. Tree Testing
+16. Thematic Networks
+17. Shadowing
 
 ### Questions to get you thinking
 - What is it?
