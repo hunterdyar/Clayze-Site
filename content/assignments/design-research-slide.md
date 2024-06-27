@@ -1,7 +1,7 @@
 ---
 title: Design Research Slide
 ---
-Prepare a 2-3 minute presentation on a single design research method.
+Prepare a 2-3 minute presentation on a single design method.
 
 ## Methods
 We will select these randomly, during class.
@@ -9,8 +9,20 @@ We will select these randomly, during class.
 - User Group/Focus Group
 - Diary Study
 - User Interview
-- Survey
-- 
+- Literature Review
+- Grafiti Walls & "How Might We..." 
+- A/B Testing
+- Backcasting
+- Collage
+- Cognitive Mapping
+- Design Fiction
+- Design Charette
+- Design Physicalization
+- User/Customer Experience Audit
+- Weighted Matrix
+- Tree Testing
+- Thematic Networks
+- Shadowing
 
 ### Questions to get you thinking
 - What is it?
