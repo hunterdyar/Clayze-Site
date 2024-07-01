@@ -45,6 +45,7 @@ weeks:
     wed:
         due:
         - Design Research Slide
+        - Daily UX (quick) Check-in
         class:
         - Design Research Class Presentation
         - XR Hardware Introductions
@@ -54,31 +55,33 @@ weeks:
         class:
         - No Class (4th of July)
     fri:
+        special: no-class
         due:
-        - Daily UX Check-in 2
-        - Design of Everyday Things Ch.1
         class:
-        - Norman 1 Discussion
-        - Unity & Git Workshop
+            - Video for class
+            - Assignments and topics distributed through next week
 -
     start: Week Three - 07/08
     mon:
         due:
             - Git Practice Assignment
+            - Design of Everyday Things Ch.1
+            - Daily UX Check-in
         class:
             - Priors Assignments
-            - Researching Design Research
+            - Norman 1 Discussion
     tue:
         class:
-            - Prototype 1 Hack Time
             - Unity Input Systems & Methods
     wed:
         due:
             - Computers As Theater Ch.4
         class:
+            - Researching Design Research
             - Prototype 1 Hack Time
     thur:
         class:
+            - Unity & Git Workshop
             - Prototype 1 Hack Time
     fri:
         due:
