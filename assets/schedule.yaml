@@ -77,8 +77,9 @@ weeks:
         due:
             - Computers As Theater Ch.4
         class:
-            - Researching Design Research
+            - In Person @ CMU
             - Prototype 1 Hack Time
+            - Prototype 2 Final Deadline for Hardware selection
     thur:
         class:
             - Unity & Git Workshop
@@ -86,14 +87,15 @@ weeks:
     fri:
         due:
             - Daily UX Check-in 3
-            - Investigate Priors Paper
         class:
             - Norman 1 Discussion
 -
     start: Week Four - 07/15
     mon:
-        class:
+        due:
             - Prototype 1
+        class:
+            - Prototype Review
             - New Media Explorations
     tue:
         class:
@@ -102,7 +104,6 @@ weeks:
     wed:
         due:
             - Computers As Theater Ch.6
-            - Prototype 1
         class:
             - Prototype 2 Hack Time
     thur:
