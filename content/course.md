@@ -6,7 +6,7 @@ author: Hunter Dyar
 *Chatham University - IMM313*  
 Summer 2024
 
-Jump to [Daily Schedule](#daily-schedule)
+Jump to [Daily Schedule](#schedule)
 
 # Breakdown by Topics
 - Participation (30%) (workshops, reading discussions, group activity, shared project responsibility)
