@@ -74,8 +74,6 @@ weeks:
         class:
             - Unity Input Systems & Methods
     wed:
-        due:
-            - Computers As Theater Ch.4
         class:
             - In Person @ CMU
             - Prototype 1 Hack Time
@@ -87,8 +85,9 @@ weeks:
     fri:
         due:
             - Daily UX Check-in 3
+            _ Computers As Theater Ch.4
         class:
-            - Norman 1 Discussion
+            - Reading Discussions
 -
     start: Week Four - 07/15
     mon:
