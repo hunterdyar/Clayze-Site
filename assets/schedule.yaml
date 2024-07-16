@@ -107,15 +107,18 @@ weeks:
             - Prototype 2 Hack Time
     thur:
         class:
-            - Prototype 2 Hack Time
+            - Unity Doctor
     fri:
-        due:
-            - Prototype 2
+        class:
+            - Unity Doctor
+            - Final Project Discussion
+            - Hack Time
 -
     start: Week Five - 07/22
     mon:
         class:
-            - Prototype 2
+            - Prototype 2 Hack Time
+            - Final Project Hardware Decisions
     tue:
         class:
             - Prototype 2 Hack Time
