@@ -116,7 +116,8 @@ weeks:
 -
     start: Week Five - 07/22
     mon:
-        due: Make It So Chapters 2 & 8
+        due:
+            - Make It So Chapters 2 & 8
         class:
             - Experimental & Speculative Design Discussion
             - Prototype 2 Hack Time
