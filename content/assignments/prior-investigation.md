@@ -1,8 +1,8 @@
 ---
-title: Investigate Priors Paper
+title: Investigate Priors Report
 ---
 
-*In design research terms, this is 'Literature Review'.*
+*In design research terms, this would be 'Literature Review', however I care somewhat more about your opinions and insights than an analysis.
 
 Analyze an existing modeling-for-XR tool, research project, interface, or software.
 
@@ -11,9 +11,14 @@ Write a 1-2 page paper that investigates what the tool is, and what we can learn
 The paper should generally aim to answer the following prompts, or in the same spirit.
 The given prompts are just to get you in the right direction on what to write. They are not the rubric.
 
+## Rubric/Goals
+Generally speaking, your paper has three main objectives:
+
+1. What is it?
+2. What did it do that was interesting?
+3. What can we learn from it? (positive or negative lessons).
 
 ## Investigation Prompts
-Generally speaking, your paper has three main objectives: What is it? What Did it do that was interesting? What can we learn from it? (positive or negative lessons)
 
 - What is it?
 - When was it made? What was the context in which it was made? What other tools existed at the time?
@@ -36,8 +41,6 @@ Generally speaking, your paper has three main objectives: What is it? What Did i
 - What would an at-scale version of it look like?
 - Who cares? Why do they care?
 - Is it weird?
-
-
 
 ## Submission
 Upload a .pdf or .docx to the appropriate submission area in your LMS. 

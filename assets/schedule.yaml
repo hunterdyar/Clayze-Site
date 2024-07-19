@@ -136,11 +136,12 @@ weeks:
             - In-Person @ Chatham
             - Final Project Design Sessions
     fri:
-        due:
             - Final Project Standup 1
 -
     start: Week Six - 07/29
     mon:
+        due:
+            - Prior Investigation Paper
         class:
             - Final Project
     tue:
