@@ -27,6 +27,5 @@ Jump to [Daily Schedule](#schedule)
 - Prototype 2 (Prototype 1 rubric, with XR hardware requirement)
 - [Investigate Priors Paper]({{< ref "assignments/prior-investigation.md" >}})
 
-
 # Schedule
 {{< toml-to-weeks "schedule.yaml" >}}

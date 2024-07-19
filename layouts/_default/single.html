@@ -1,5 +1,12 @@
 {{ partial "header.html" . }}
 <article>
+    {{ $image := resources.GetMatch "clayc.png" }}
+    {{ with $image }}
+    {{ $image := $image.Process "resize 200x200" }}
+    <div style="text-align: center">
+    <img src="{{ .RelPermalink }}" width="100px" height="100px">
+    </div>
+    {{ end }}
 
 <nav><h2>{{ .Title | markdownify }}</h2></nav>
 {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}

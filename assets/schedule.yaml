@@ -136,6 +136,7 @@ weeks:
             - In-Person @ Chatham
             - Final Project Design Sessions
     fri:
+        class:
             - Final Project Standup 1
 -
     start: Week Six - 07/29
